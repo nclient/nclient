@@ -20,7 +20,7 @@
         <PackageReference Include="Flurl.Http" Version="3.2.2" />
         <PackageReference Include="Refit" Version="6.1.15" />
         <PackageReference Include="RestEase" Version="1.5.5" />
-        <PackageReference Include="RestSharp" Version="107.3.0" />
+        <PackageReference Include="RestSharp" Version="112.0.0" />
         <PackageReference Include="RichardSzalay.MockHttp" Version="6.0.0" />
         <PackageReference Include="System.Text.Json" Version="6.0.2" />
     </ItemGroup>
